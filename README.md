@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align=center>
-<p>👋 Hi, I’m @DanbiAubrey</p>
+<p>👋 Hi, I’m @DanbiAubrey</p> 
 <p>👀 I’m interested in Data Analysis, Knowledge graph alignment, Machine learning</p>
 </div>
 <br>
