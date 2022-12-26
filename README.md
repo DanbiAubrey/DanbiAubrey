@@ -25,10 +25,10 @@
 </div>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanbiAubrey&layout=compact&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanbiAubrey&layout=compact&theme=dark">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=DanbiAubrey&show_icons=true&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanbiAubrey&show_icons=true&theme=dark">
 </div>
 
 
