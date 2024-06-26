@@ -11,10 +11,10 @@
 	<p>🦋 Languages 🦋</p>
 </div>
 <div align="center">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat" />
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </div>
 <br>
 <br>
