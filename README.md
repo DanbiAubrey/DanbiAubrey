@@ -28,7 +28,7 @@
 </div>
 <br>
 <div align=center>
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanbiAubrey&layout=donut-vertical">
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=DanbiAubrey&show_icons=true&theme=dark">
