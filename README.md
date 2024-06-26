@@ -4,7 +4,7 @@
 <br>
 <div align=center>
 <p>👋 Hi, I’m @DanbiAubrey</p> 
-<p>👀 I’m interested in Data Analysis, Knowledge graph alignment, Machine learning</p>
+<p>👀 I’m interested in Machine Learning, Data Analysis, Graph Representation Learning, Knowledge graph alignment, and Recommendation System</p>
 </div>
 <br>
 <div align=center>
@@ -22,6 +22,9 @@
 	<p>👩‍🏫 Publications 👩‍🏫</p>
   <p>Entity Alignment for Knowledge Graphs With Multi-Order Convolutional Networks</p>
   <p>DOI: 10.1109/TKDE.2020.3038654</p>
+	
+  <p>Complex Representation Learning with Graph Convolutional Networks for Knowledge Graph Alignment</p>
+  <p>DOI: 10.1155/2023/5494961</p>
 </div>
 <br>
 <div align=center>
